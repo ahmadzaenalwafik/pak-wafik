@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmad Zaenal Wafik - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            padding: 2em;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .social-media a {
+            color: #4CAF50;
+            text-decoration: none;
+            margin: 0 1em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ahmad Zaenal Wafik</h1>
+    <p>Lecturer in Development Economics</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! My name is Ahmad Zaenal Wafik. I am a lecturer in the field of development economics with a strong enthusiasm for all things related to learning. My passion lies in exploring and teaching the various aspects of economic development, and I am committed to fostering an engaging and enriching educational environment.</p>
+</section>
+
+<section>
+    <h2>Hobbies & Interests</h2>
+    <p>In my free time, I enjoy teaching and engaging in various sports activities. I believe that health is paramount, and I prioritize maintaining a healthy lifestyle.</p>
+</section>
+
+<section class="social-media">
+    <h2>Connect with Me</h2>
+    <p>Follow me on Instagram: <a href="https://www.instagram.com/a.z.wafik" target="_blank">@a.z.wafik</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Ahmad Zaenal Wafik</p>
+</footer>
+
+</body>
+</html>
